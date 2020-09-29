@@ -5,7 +5,7 @@ $font-bd: "EmberBd", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
 
 :root {
   --dark: rgb(35, 47, 62); //
-  --secondary: #527fff;
+  --secondary: #ff6138;
   --tertiary: #95b0ff;
   --seafom-blue: #67e6be;
   --dark-grey-blue: #2c3a4b;
@@ -33,7 +33,7 @@ $aws-green: #16bf9f;
 $black: #232f3e;
 
 $dark: rgb(35, 47, 62); //
-$secondary: #527fff;
+$secondary: #ff6138;
 $tertiary: #067f68;
 $seafom-blue: #67e6be;
 $dark-grey-blue: #2c3a4b;
@@ -47,7 +47,8 @@ $light-grey: #d5dbdb;
 $light-white: #f2f4f4;
 $blue-grey: #879196;
 $slate-grey: #545b64;
-
+$rust-red: #bf2d06;
+$peach: #ffc5ac;
 
 :export {
   dark: $dark;

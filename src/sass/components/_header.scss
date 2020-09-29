@@ -13,10 +13,10 @@
     }
   }
   &__logo {
-    width: 33.3rem;
-    height: 6.4rem;
+    width: 26.8rem;
+    height: 9.6rem;
     object-fit: contain;
-    margin-bottom: 13.4rem;
+    margin-bottom: 9rem;
     @media only screen and (max-width: 1024px) {
       margin-top: 9.8rem;
       margin-bottom: 9.2rem;
@@ -30,7 +30,7 @@
     font-size: 7.9rem;
     font-weight: 300;
     line-height: 1.28;
-    width: 68%;
+    // width: 68%;
     color: var(--white);
     margin-top: -2rem;
 
