@@ -1,0 +1,67 @@
+.icon-box {
+  &__container {
+    display: flex;
+    margin-bottom: 4rem;
+    @media only screen and (max-width: 425px) {
+      flex-direction: column;
+    }
+  }
+
+  // left side
+  &__img {
+    width: 11rem;
+    height: 7.1rem;
+    object-fit: contain;
+    margin-right: 5.5rem;
+    @media only screen and (max-width: 425px) {
+      margin-right: 0;
+      margin-bottom: 2.5rem;
+    }
+  }
+
+  // right side
+  &__title {
+    font-family: AmazonEmberLT;
+    font-size: 3.6rem;
+    font-weight: 300;
+    line-height: 1.2;
+    letter-spacing: 0.36px;
+    color: #ffffff;
+    margin-bottom: 2rem;
+  }
+  &__list {
+    list-style: none;
+  }
+  &__item {
+    display: flex;
+    margin-bottom: 2.5rem;
+  }
+  &__arrow {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 2rem;
+    margin-top: 0.5rem;
+  }
+  &__text {
+    font-family: AmazonEmberReg;
+    font-size: 2.1rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.52;
+    letter-spacing: 0.21px;
+    text-align: left;
+    color: #fff;
+    a {
+      color: $carolina-blue;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    .txt-2ndblue{
+      color: $carolina-blue;
+    }
+  }
+}

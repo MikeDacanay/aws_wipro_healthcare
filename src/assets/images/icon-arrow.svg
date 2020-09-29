@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon-arrow" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_1849" fill="none" d="M0 0H30V30H0z" data-name="Rectangle 1849"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:none;stroke:#879196;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="icon-arrow-2" data-name="icon-arrow" transform="translate(15 15)">
+        <g id="Group_1611" clip-path="url(#clip-path)" data-name="Group 1611" transform="translate(-15 -15)">
+            <circle id="Ellipse_57" cx="14" cy="14" r="14" class="cls-3" data-name="Ellipse 57" transform="translate(1 1)"/>
+            <path id="Line_775" d="M16.4 0L0 0" class="cls-3" data-name="Line 775" transform="translate(5.7 15)"/>
+            <path id="Path_2269" d="M15.9 21.5l6.6-6.5-6.6-6.5" class="cls-3" data-name="Path 2269"/>
+        </g>
+    </g>
+</svg>

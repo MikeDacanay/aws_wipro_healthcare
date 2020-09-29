@@ -1,0 +1,50 @@
+.header {
+  &__section {
+    background-color: var(--dark);
+    background-image: url("../../assets/images/bg-top-main.svg");
+    background-size: cover;
+    color: #fff;
+    padding-top: 8.2rem;
+    height: 80rem;
+    position: relative;
+    @media only screen and (max-width: 1024px) {
+      padding-top: 0;
+      height: auto;
+    }
+  }
+  &__logo {
+    width: 33.3rem;
+    height: 6.4rem;
+    object-fit: contain;
+    margin-bottom: 13.4rem;
+    @media only screen and (max-width: 1024px) {
+      margin-top: 9.8rem;
+      margin-bottom: 9.2rem;
+    }
+    @media only screen and (max-width: 400px) {
+      width: 27.3rem;
+    }
+  }
+  &__title {
+    font-family: AmazonEmberLT;
+    font-size: 7.9rem;
+    font-weight: 300;
+    line-height: 1.28;
+    width: 68%;
+    color: var(--white);
+    margin-top: -2rem;
+
+    @media only screen and (max-width: 825px) {
+      width: 87%;
+    }
+    
+    @media only screen and (max-width: 400px) {
+      font-size: 6.3rem;
+    }
+
+    margin-bottom: 37.5rem;
+    @media only screen and (max-width: 1024px) {
+      margin-bottom: 29.7rem;
+    }
+  }
+}

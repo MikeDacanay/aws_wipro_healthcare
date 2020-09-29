@@ -1,0 +1,101 @@
+.feature-box {
+  &__wrapper {
+  }
+  &__line {
+    width: 100%;
+    height: 1rem;
+    content: "";
+    display: block;
+    background-color: var(--secondary);
+  }
+  &__container {
+    background-color: var(--ice);
+    // border-top: 0.642rem solid var(--soft-blue);
+    padding: 3.5rem;
+    margin-bottom: 5rem;
+
+    display: flex;
+    justify-content: space-between;
+    @media only screen and (max-width: 775px) {
+      flex-direction: column;
+    }
+  }
+
+  // This is left side configuration of the box
+  &__left {
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+    @media only screen and (max-width: 775px) {
+      width: 100%;
+    }
+  }
+  &__title {
+    @include FeaturesTitle;
+    margin-bottom: 1rem;
+    @media only screen and (max-width: 825px) {
+      margin-bottom: 2.5rem;
+    }
+  }
+  &__text {
+    @include CopyText;
+    line-height: 1.33;
+    letter-spacing: 0.21px;
+    margin-bottom: 7.2rem;
+  }
+  &__img {
+    width: 46.8rem;
+    height: 22.3rem;
+    margin: 0 auto;
+    @media only screen and (max-width: 825px) {
+      width: 100%;
+      height: auto;
+      margin-top: auto;
+    }
+    @media only screen and (max-width: 775px) {
+      display: none;
+    }
+  }
+
+  // This is right side of the box CSS
+  &__right {
+    width: 43%;
+    @media only screen and (max-width: 775px) {
+      width: 100%;
+    }
+  }
+  &__list {
+    list-style: none;
+  }
+  &__item {
+    position: relative;
+    @include CopyText;
+    font-size: 2.1rem;
+    line-height: 1.33;
+    letter-spacing: 0.21px;
+    margin-bottom: 2rem;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+    img {
+      position: absolute;
+      transform: translateX(-100%);
+      left: -1rem;
+      top: 0;
+      width: 3rem;
+      height: 3rem;
+      margin-right: 1rem;
+      stroke: var(--blue-grey);
+      stroke-width: 2;
+      @media only screen and (max-width: 775px) {
+        position: relative;
+        display: block;
+        left: auto;
+        transform: translateX(0%);
+        float: left;
+        margin-right: 1.5rem;
+      }
+    }
+  }
+}

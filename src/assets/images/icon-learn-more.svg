@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon-learn_more" width="110" height="71" data-name="icon-learn more" viewBox="0 0 110 71">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_3448" fill="none" d="M0 0H110V71H0z" data-name="Rectangle 3448"/>
+        </clipPath>
+        <style>
+            .cls-3,.cls-4{fill:none;stroke:#869095;stroke-linejoin:round;stroke-width:2px}.cls-4{stroke:#879196}
+        </style>
+    </defs>
+    <g id="icon-learn_more-2" data-name="icon-learn more" transform="translate(55 35.5)">
+        <g id="icon-learn_more-3" clip-path="url(#clip-path)" data-name="icon-learn more" transform="translate(-55 -35.5)">
+            <path id="Path_3257" d="M102.4 70a10.3 10.3 0 0 0 6.3-2.2l.3-.2V62H1v5.6l.3.2A10.3 10.3 0 0 0 7.6 70z" class="cls-3" data-name="Path 3257"/>
+            <path id="Path_3258" d="M99 13V3.2A2.2 2.2 0 0 0 96.8 1H13.2A2.2 2.2 0 0 0 11 3.2V62" class="cls-3" data-name="Path 3258"/>
+            <path id="Line_785" d="M0 13L0 0" class="cls-3" data-name="Line 785" transform="translate(99 49)"/>
+            <path id="Path_3259" d="M93 49v5.1a1.9 1.9 0 0 1-1.9 1.9H18.9a1.9 1.9 0 0 1-1.9-1.9V8.9A1.9 1.9 0 0 1 18.9 7h72.2A1.9 1.9 0 0 1 93 8.9V13" class="cls-3" data-name="Path 3259"/>
+            <circle id="Ellipse_67" cx="15" cy="15" r="15" class="cls-4" data-name="Ellipse 67" transform="translate(79 16)"/>
+            <path id="Path_3260" d="M95 38l7-7H84" class="cls-4" data-name="Path 3260"/>
+            <path id="Line_786" d="M0 0L7 7" class="cls-4" data-name="Line 786" transform="translate(95 24)"/>
+        </g>
+    </g>
+</svg>

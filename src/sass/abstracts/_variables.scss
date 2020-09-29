@@ -1,0 +1,68 @@
+// FONTS
+$font-reg: "EmberReg", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+$font-lt: "EmberLt", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+$font-bd: "EmberBd", "Helvetica Neue", Helvetica, Arial, Sans-Serif;
+
+:root {
+  --dark: rgb(35, 47, 62); //
+  --secondary: #527fff;
+  --tertiary: #95b0ff;
+  --seafom-blue: #67e6be;
+  --dark-grey-blue: #2c3a4b;
+  --carolina-blue: #95b0ff;
+  --sapphire: #2e27ad;
+  --yellowish-orange: #ff9900;
+  --soft-blue: #527fff;
+  --ice: #eaeded;
+  --red: #db0808;
+  --light-grey: #d5dbdb;
+  --light-white: #f2f4f4;
+  --blue-grey: #879196;
+  --slate-grey: #545b64;
+}
+
+// GRID
+$grid-width: 120rem;
+$gutter-vertical: 4.8rem;
+$gutter-horizontal: 4.8rem;
+
+// COLORS
+$aws-blue: #212e3f;
+$aws-green: #16bf9f;
+
+$black: #232f3e;
+
+$dark: rgb(35, 47, 62); //
+$secondary: #527fff;
+$tertiary: #067f68;
+$seafom-blue: #67e6be;
+$dark-grey-blue: #2c3a4b;
+$carolina-blue: #95b0ff;
+$sapphire: #2e27ad;
+$yellowish-orange: #ff9900;
+$soft-blue: #527fff;
+$ice: #eaeded;
+$red: #db0808;
+$light-grey: #d5dbdb;
+$light-white: #f2f4f4;
+$blue-grey: #879196;
+$slate-grey: #545b64;
+
+
+:export {
+  dark: $dark;
+  secondary: $secondary;
+  tertiary: $tertiary;
+  seafom-blue: $seafom-blue;
+  dark-grey-blue: $dark-grey-blue;
+  carolina-blue: $carolina-blue;
+  sapphire: $sapphire;
+  yellowish-orange: $yellowish-orange;
+  soft-blue: $soft-blue;
+  ice: $ice;
+  red: $red;
+  light-grey: $light-grey;
+  light-white: $light-white;
+  blue-grey: $blue-grey;
+  slate-grey:$slate-grey;
+}

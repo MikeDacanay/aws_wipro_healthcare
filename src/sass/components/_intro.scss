@@ -1,0 +1,15 @@
+.intro {
+  &__section {
+    padding: 3.2rem 0 4.8rem 0;
+    background-color: var(--ice);
+  }
+
+  &__title {
+    @include SectionHeadline;
+    font-size: 6.4rem;
+    margin-bottom: 1.25rem;
+  }
+  &__text {
+    @include CopyText;
+  }
+}

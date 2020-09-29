@@ -1,0 +1,20 @@
+b,
+strong {
+  font-weight: bold;
+}
+
+.mb--0 {
+  margin-bottom: 0 !important;
+}
+
+.pos-relative {
+  @include clearfix;
+  position: relative;
+}
+
+.mob__center{ 
+  @media only screen and (max-width: 825px){
+    display: flex;
+    justify-content: center;
+  }
+}

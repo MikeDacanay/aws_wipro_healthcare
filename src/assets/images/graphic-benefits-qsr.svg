@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__graphic-benefits-qsr" width="401" height="339" viewBox="0 0 401 339">
+    <defs>
+        <style>
+            .prefix__cls-1,.prefix__cls-2,.prefix__cls-3,.prefix__cls-4,.prefix__cls-5,.prefix__cls-6,.prefix__cls-8{fill:none}.prefix__cls-2,.prefix__cls-4{stroke:#879196}.prefix__cls-2,.prefix__cls-3,.prefix__cls-6,.prefix__cls-8{stroke-linejoin:round}.prefix__cls-2,.prefix__cls-3,.prefix__cls-4,.prefix__cls-5,.prefix__cls-6,.prefix__cls-8{stroke-width:2px}.prefix__cls-3,.prefix__cls-5{stroke:#a166ff}.prefix__cls-4,.prefix__cls-5{stroke-miterlimit:10}.prefix__cls-6{stroke:#869095}.prefix__cls-7{fill:#a166ff}.prefix__cls-8{stroke:#869196}
+        </style>
+    </defs>
+    <g id="prefix___01" data-name="1">
+        <path id="prefix__Rectangle_2212" d="M0 0H120V120H0z" class="prefix__cls-1" data-name="Rectangle 2212" transform="translate(281 54)"/>
+        <path id="prefix__Path_3335" d="M331.15 121.83a11 11 0 1 1 11 11 11 11 0 0 1-11-11" class="prefix__cls-2" data-name="Path 3335"/>
+        <path id="prefix__Path_3336" d="M323.15 153h37.94a20.21 20.21 0 0 0-9.26-17.18 18.13 18.13 0 0 0-9.71-2.82c-10.48 0-18.97 9-18.97 20z" class="prefix__cls-2" data-name="Path 3336"/>
+        <path id="prefix__Path_3337" d="M313.15 86.83a11 11 0 1 1 11 11 11 11 0 0 1-11-11" class="prefix__cls-2" data-name="Path 3337"/>
+        <path id="prefix__Path_3338" d="M324 118h-18.85s.16-19.43 19.39-20a19.51 19.51 0 0 1 13.13 5.23" class="prefix__cls-2" data-name="Path 3338"/>
+        <path id="prefix__Path_3339" d="M346.15 86.83a11 11 0 1 1 11 11 11 11 0 0 1-11-11" class="prefix__cls-3" data-name="Path 3339"/>
+        <path id="prefix__Path_3340" d="M358 118h19.15s-.17-19.43-19.4-20a19.49 19.49 0 0 0-13.12 5.23" class="prefix__cls-3" data-name="Path 3340"/>
+        <path id="prefix__Path_3341" d="M22.46 147.18l1.2 2.56a.54.54 0 0 0 .65.29l3.06-.9a13 13 0 0 0 3.94 3.61l-.63 3.13a.54.54 0 0 0 .35.63l2.65 1a.55.55 0 0 0 .67-.26l1.53-2.8a13 13 0 0 0 5.34-.23l1.78 2.63a.56.56 0 0 0 .7.2l2.56-1.2a.54.54 0 0 0 .29-.65l-.9-3.06a13 13 0 0 0 3.61-3.94l3.13.63a.54.54 0 0 0 .63-.35l1-2.65a.55.55 0 0 0-.26-.67l-2.8-1.53a13 13 0 0 0-.23-5.34l2.66-1.76a.56.56 0 0 0 .2-.7l-1.2-2.56a.54.54 0 0 0-.65-.29l-3.06.9a13 13 0 0 0-3.94-3.61l.63-3.13a.54.54 0 0 0-.35-.63l-2.65-1a.55.55 0 0 0-.67.26l-1.53 2.8a13 13 0 0 0-5.34.23L33 126.16a.56.56 0 0 0-.7-.2l-2.56 1.2a.54.54 0 0 0-.29.65l.9 3.06a13 13 0 0 0-3.61 3.94l-3.13-.63a.54.54 0 0 0-.63.35l-1 2.65a.55.55 0 0 0 .26.67l2.8 1.53a13 13 0 0 0 .23 5.34l-2.66 1.76a.56.56 0 0 0-.15.7zm12.13-11.91a7.1 7.1 0 1 1-3.21 8.8 7.1 7.1 0 0 1 3.21-8.8z" class="prefix__cls-3" data-name="Path 3341"/>
+        <path id="prefix__Path_3342" d="M97.42 108.26l-4.77-1.69a20.9 20.9 0 0 0-.22-3.06l4.48-2.35a.86.86 0 0 0 .42-1.06l-1.45-4.21a.87.87 0 0 0-1-.57l-5 .92a19.64 19.64 0 0 0-1.72-2.55l2.71-4.27a.88.88 0 0 0-.17-1.13l-3.37-2.92a.87.87 0 0 0-1.13 0l-3.85 3.28a19 19 0 0 0-2.76-1.34l.2-5.06a.87.87 0 0 0-.7-.89l-4.38-.84a.87.87 0 0 0-1 .56l-1.69 4.77a20.9 20.9 0 0 0-3.06.22l-2.35-4.48a.86.86 0 0 0-1.06-.42l-4.21 1.45a.87.87 0 0 0-.57 1l.92 5a19.642 19.642 0 0 0-2.55 1.72l-4.27-2.71a.88.88 0 0 0-1.13.17l-2.92 3.37a.87.87 0 0 0 0 1.13l3.28 3.85a19 19 0 0 0-1.34 2.76l-5.06-.2a.87.87 0 0 0-.89.7l-.81 4.34a.87.87 0 0 0 .56 1l4.77 1.69a20.9 20.9 0 0 0 .22 3.06l-4.48 2.35a.86.86 0 0 0-.42 1.06l1.45 4.21a.87.87 0 0 0 1 .57l5-.92a19.64 19.64 0 0 0 1.72 2.55l-2.71 4.27a.88.88 0 0 0 .17 1.13l3.37 2.92a.87.87 0 0 0 1.13 0l3.85-3.28a19 19 0 0 0 2.76 1.34l-.2 5.06a.87.87 0 0 0 .7.89l4.38.84a.87.87 0 0 0 1-.56l1.69-4.77a20.9 20.9 0 0 0 3.06-.22l2.35 4.48a.86.86 0 0 0 1.06.42l4.21-1.45a.87.87 0 0 0 .57-1l-.92-5a19.64 19.64 0 0 0 2.55-1.72l4.27 2.71a.88.88 0 0 0 1.13-.17l2.92-3.37a.87.87 0 0 0 0-1.13l-3.28-3.85a19 19 0 0 0 1.34-2.76l5.06.2a.87.87 0 0 0 .89-.7l.84-4.38a.87.87 0 0 0-.59-.96z" class="prefix__cls-2" data-name="Path 3342"/>
+        <circle id="prefix__Ellipse_107" cx="12.39" cy="12.39" r="12.39" class="prefix__cls-2" data-name="Ellipse 107" transform="rotate(-27.75 232.505 -61.21)"/>
+        <path id="prefix__Rectangle_2213" d="M0 0H120V120H0z" class="prefix__cls-1" data-name="Rectangle 2213" transform="translate(0 59)"/>
+        <path id="prefix__Path_3343" d="M248.46 285.1l17.15-16.72a1.35 1.35 0 0 0 0-1.9l-11-11a1.33 1.33 0 0 0-1.9 0l-4.13 4.13a9.63 9.63 0 0 1-13.63 0 8.09 8.09 0 0 0-11.43 0l-9 7.86a4.46 4.46 0 0 0 .06 6.65 4.45 4.45 0 0 0 5.66.16l1.56-1.28c4.13-3.5 6-3.12 7.61-1.84l16.75 17" class="prefix__cls-4" data-name="Path 3343"/>
+        <path id="prefix__Path_3344" d="M187.74 277.72l-9.35-9.34a1.35 1.35 0 0 1 0-1.9l11-11a1.33 1.33 0 0 1 1.9 0l4.13 4.13a9.63 9.63 0 0 0 13.63 0 8.09 8.09 0 0 1 10.82-.55" class="prefix__cls-4" data-name="Path 3344"/>
+        <path id="prefix__Path_3345" d="M197.9 277.3a3.94 3.94 0 0 0-5.57 0l-7.92 7.92a3.94 3.94 0 0 0 5.57 5.57l7.92-7.92a3.94 3.94 0 0 0 0-5.57z" class="prefix__cls-4" data-name="Path 3345"/>
+        <path id="prefix__Path_3346" d="M208.08 289.43a3.94 3.94 0 0 0-5.57 0l-7.92 7.92a3.94 3.94 0 0 0 5.57 5.57l7.92-7.91a4 4 0 0 0 0-5.58z" class="prefix__cls-4" data-name="Path 3346"/>
+        <path id="prefix__Path_3347" d="M213.41 295.54a3.94 3.94 0 0 0-5.57 0l-6 6a3.94 3.94 0 1 0 5.57 5.57l6-6a3.94 3.94 0 0 0 0-5.57z" class="prefix__cls-4" data-name="Path 3347"/>
+        <path id="prefix__Path_3348" d="M204.31 281.88a3.94 3.94 0 0 0-5.57 0L187 293.58a3.942 3.942 0 0 0 5.57 5.58l11.7-11.71a3.94 3.94 0 0 0 .04-5.57z" class="prefix__cls-4" data-name="Path 3348"/>
+        <path id="prefix__Path_3349" d="M232.67 285.85l7.92 7.92a3.94 3.94 0 0 0 5.57 0 3.94 3.94 0 0 0 0-5.57" class="prefix__cls-4" data-name="Path 3349"/>
+        <path id="prefix__Path_3350" d="M220.81 296.64l9.6 9.51a3.94 3.94 0 0 0 5.57 0 3.94 3.94 0 0 0 0-5.57l-9.37-9.58" class="prefix__cls-4" data-name="Path 3350"/>
+        <path id="prefix__Path_3351" d="M216.31 303.53l6.87 6.58a3.94 3.94 0 0 0 5.57 0 4 4 0 0 0 0-5.58l-5.39-5.36" class="prefix__cls-4" data-name="Path 3351"/>
+        <path id="prefix__Path_3352" d="M229.54 294l8.42 8.37a3.94 3.94 0 0 0 5.57 0 3.94 3.94 0 0 0 0-5.57l-8.59-8.75" class="prefix__cls-4" data-name="Path 3352"/>
+        <path id="prefix__Line_1485" d="M0 0L0 8" class="prefix__cls-4" data-name="Line 1485" transform="translate(220 319)"/>
+        <path id="prefix__Line_1486" d="M0 0L0 6" class="prefix__cls-5" data-name="Line 1486" transform="translate(228 317)"/>
+        <path id="prefix__Line_1487" d="M0 0L0 6" class="prefix__cls-5" data-name="Line 1487" transform="translate(212 317)"/>
+        <path id="prefix__Line_1488" d="M0 0L0 3" class="prefix__cls-4" data-name="Line 1488" transform="translate(236 315)"/>
+        <path id="prefix__Line_1489" d="M0 0L0 3" class="prefix__cls-4" data-name="Line 1489" transform="translate(204 315)"/>
+        <path id="prefix__Line_1490" d="M0 9L0 0" class="prefix__cls-5" data-name="Line 1490" transform="translate(220 236)"/>
+        <path id="prefix__Line_1491" d="M0 6L0 0" class="prefix__cls-4" data-name="Line 1491" transform="translate(212 240)"/>
+        <path id="prefix__Line_1492" d="M0 6L0 0" class="prefix__cls-4" data-name="Line 1492" transform="translate(228 240)"/>
+        <path id="prefix__Line_1493" d="M0 3L0 0" class="prefix__cls-5" data-name="Line 1493" transform="translate(204 245)"/>
+        <path id="prefix__Line_1494" d="M0 3L0 0" class="prefix__cls-5" data-name="Line 1494" transform="translate(236 245)"/>
+        <path id="prefix__Rectangle_2214" d="M0 0H120V120H0z" class="prefix__cls-1" data-name="Rectangle 2214" transform="translate(163 219)"/>
+        <path id="prefix__Rectangle_2215" d="M0 0H120V120H0z" class="prefix__cls-1" data-name="Rectangle 2215" transform="translate(135)"/>
+        <path id="prefix__Path_3353" d="M174.78 61.06a8.65 8.65 0 0 0 17.29 0c0-4.78-3.93-7.86-8.65-8.65s-8.64-3.87-8.64-8.64a8.65 8.65 0 1 1 17.29 0" class="prefix__cls-6" data-name="Path 3353"/>
+        <path id="prefix__Line_1495" d="M0 0L0 50" class="prefix__cls-6" data-name="Line 1495" transform="translate(183 27)"/>
+        <path id="prefix__Path_3354" d="M157.61 77.62a36.5 36.5 0 0 1 44.22-57.33" class="prefix__cls-3" data-name="Path 3354"/>
+        <path id="prefix__Path_3355" d="M194.49 23.39l-.38-1.46 7.17-1.84-2.37-7.01 1.43-.48 2.87 8.54z" class="prefix__cls-7" data-name="Path 3355"/>
+        <path id="prefix__Path_3356" d="M209.23 26a36.57 36.57 0 0 1 9.49 16.49" class="prefix__cls-3" data-name="Path 3356"/>
+        <path id="prefix__Path_3357" d="M197.1 85.67a36.63 36.63 0 0 1-32-2.29" class="prefix__cls-3" data-name="Path 3357"/>
+        <path id="prefix__Path_3358" d="M172.42 80.26l.38 1.46-7.16 1.86 2.38 7-1.42.48-2.9-8.53z" class="prefix__cls-7" data-name="Path 3358"/>
+        <path id="prefix__Line_1496" d="M0 0L15 0" class="prefix__cls-6" data-name="Line 1496" transform="translate(209 79)"/>
+        <path id="prefix__Line_1497" d="M0 0L22 0" class="prefix__cls-6" data-name="Line 1497" transform="translate(209 85)"/>
+        <path id="prefix__Line_1498" d="M0 0L8 0" class="prefix__cls-6" data-name="Line 1498" transform="translate(209 90)"/>
+        <path id="prefix__Path_3359" d="M203 104.95v-57.1l2.93 3.14 2.93-3.14 2.93 3.14 2.92-3.14 2.93 3.14 2.93-3.14 2.93 3.14 2.93-3.14 2.93 3.14 2.93-3.14 2.92 3.14 2.93-3.14 2.93 3.14 2.93-3.14v57.1l-2.93-3.13-2.93 3.13-2.93-3.13-2.92 3.13-2.93-3.13-2.93 3.13-2.93-3.13-2.93 3.13-2.93-3.13-2.93 3.13-2.92-3.13-2.93 3.13-2.93-3.13z" class="prefix__cls-6" data-name="Path 3359"/>
+        <path id="prefix__Rectangle_2216" d="M0 0H8V8H0z" class="prefix__cls-3" data-name="Rectangle 2216" transform="translate(209 65)"/>
+        <path id="prefix__Rectangle_2217" d="M0 0H17V17H0z" class="prefix__cls-8" data-name="Rectangle 2217" transform="rotate(-90 216.5 -26.5)"/>
+        <path id="prefix__Rectangle_2218" d="M0 0H17V17H0z" class="prefix__cls-8" data-name="Rectangle 2218" transform="rotate(-90 225.5 8.5)"/>
+        <path id="prefix__Rectangle_2219" d="M0 0H17V17H0z" class="prefix__cls-8" data-name="Rectangle 2219" transform="rotate(-90 181 -22)"/>
+        <path id="prefix__Rectangle_2220" d="M0 0H17V17H0z" class="prefix__cls-3" data-name="Rectangle 2220" transform="rotate(-90 203.5 -1.5)"/>
+        <path id="prefix__Rectangle_2221" d="M0 0H17V17H0z" class="prefix__cls-8" data-name="Rectangle 2221" transform="rotate(-90 154.5 -7.5)"/>
+        <path id="prefix__Rectangle_2222" d="M0 0H17V17H0z" class="prefix__cls-3" data-name="Rectangle 2222" transform="rotate(-90 182.5 -43.5)"/>
+        <path id="prefix__Rectangle_2223" d="M0 0H17V17H0z" class="prefix__cls-8" data-name="Rectangle 2223" transform="rotate(-90 182 8)"/>
+        <path id="prefix__Rectangle_2224" d="M0 0H17V17H0z" class="prefix__cls-8" data-name="Rectangle 2224" transform="rotate(-90 191 29)"/>
+        <path id="prefix__Rectangle_2225" d="M0 0H17V17H0z" class="prefix__cls-3" data-name="Rectangle 2225" transform="rotate(-90 117 10)"/>
+        <path id="prefix__Rectangle_2226" d="M0 0H17V17H0z" class="prefix__cls-8" data-name="Rectangle 2226" transform="rotate(-90 190.5 -69.5)"/>
+    </g>
+</svg>

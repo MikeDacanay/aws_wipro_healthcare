@@ -1,0 +1,33 @@
+@import "abstracts/functions";
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+
+@import "./base/animations";
+@import "./base/base";
+@import "./base/typography";
+
+@import "./components/contact";
+@import "./components/feature-box";
+@import "./components/header";
+@import "./components/icon-box";
+@import "./components/images";
+@import "./components/intro";
+@import "./components/preloader";
+@import "./components/quote";
+@import "./components/section2";
+@import "./components/section4";
+@import "./components/section6";
+@import "./components/sidebar-nav";
+@import "./components/solutions";
+@import "./components/video";
+
+@import "./layout/footer";
+@import "./layout/grid";
+@import "./layout/navigation";
+
+// last because of hierarchy of selection
+@import "./base/utilities";
+
+// * {
+//   outline: 1px solid hotpink;
+// }

@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%; // This is the right size of the font (but for development purposes, I'm developing at a smaller font
+  // font-size: 50%;
+  font-family: $font-reg;
+
+  @media only screen and (max-width: 1400px) {
+    // font-size: 62.5%; // This is the right size of the font (but for development purposes, I'm developing at a smaller font
+    font-size: 56.25%;
+  }
+  @media only screen and (max-width: 1275px) {
+    // font-size: 62.5%; // This is the right size of the font (but for development purposes, I'm developing at a smaller font
+    font-size: 41.67%;
+  }
+  // @media only screen and (min-width: 1400px) {
+  //   font-size: 75%;
+  // }
+  position: relative;
+  overflow-x: hidden;
+}
+
+body {
+  border-left: 0.8rem solid var(--secondary); // Same border as the HTML element --> in _base.scss
+  height: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+}

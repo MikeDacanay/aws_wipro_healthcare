@@ -1,0 +1,110 @@
+.sidebar-nav {
+  &__container {
+    position: fixed;
+    top: 10rem;
+    right: 3rem;
+    z-index: 105;
+    transition: all 500ms;
+    @media only screen and (max-width: 1024px) {
+      display: flex;
+      top: auto;
+      bottom: -9rem;
+      right: auto;
+      left: 0;
+      width: 100%;
+      background-color: var(--dark);
+      align-items: center;
+      justify-content: space-evenly;
+      padding: 0.5rem;
+      border-left: 0.8rem solid var(--secondary); // Same border as the HTML element --> in _base.scss
+      border-top: 1px solid #000;
+      &.show {
+        bottom: -20rem;
+        &.up {
+          bottom: 0;
+        }
+      }
+    }
+  }
+
+  &__navigation {
+    @media only screen and (max-width: 1024px) {
+      display: flex;
+      align-items: center;
+      width: 15rem;
+    }
+    span {
+      font-family: AmazonEmberReg;
+      font-size: 2.1rem;
+      line-height: 2.29;
+      letter-spacing: -0.01px;
+      text-align: left;
+      color: var(--blue-grey);
+      @media only screen and (min-width: 1025px) {
+        display: none;
+      }
+    }
+  }
+  &__text {
+    &--prev {
+      margin-right: 2.5rem;
+      cursor: pointer;
+    }
+    &--next {
+      margin-left: 2.5rem;
+      cursor: pointer;
+    }
+  }
+  &__arrow {
+    width: 1rem;
+    height: 1rem;
+    // display: none;
+    background-image: url("../../assets/images/arrow-side-nav.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-bottom: 0.5rem;
+    // clip-path: polygon(0 0, 0 100%, 100% 50%);
+    // background-color: var(--blue-grey);
+    // border: 1px solid var(--blue-grey);
+    // transform: translateX(-0.5rem);
+    @media only screen and (max-width: 1024px) {
+      background-image: url("../../assets/images/arrow-blue2.svg");
+      width: 3.1rem;
+      height: 3rem;
+      margin-bottom: 0;
+    }
+
+    &:hover {
+      cursor: pointer;
+    }
+    &Up {
+      @media only screen and (max-width: 1024px) {
+        transform: rotate(-90deg);
+      }
+    }
+    &Down {
+      margin-top: 0.75rem;
+      transform: rotate(180deg);
+      margin-bottom: 0;
+      background-position: top;
+      @media only screen and (max-width: 1024px) {
+        transform: rotate(90deg);
+        margin-top: 0;
+      }
+    }
+  }
+  &__indicator {
+    width: 1rem;
+    height: 5rem;
+    background-color: transparent;
+    border: 1px solid var(--blue-grey);
+    margin-bottom: 0.5rem;
+    &:hover {
+      cursor: pointer;
+    }
+    @media only screen and (max-width: 1024px) {
+      display: none;
+    }
+  }
+}

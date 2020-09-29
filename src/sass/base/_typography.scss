@@ -1,0 +1,74 @@
+@font-face {
+  font-family: AmazonEmberReg;
+  src: url("../../fonts/AmazonEmber_Rg.ttf");
+}
+@font-face {
+  font-family: AmazonEmberLT;
+  src: url("../../fonts/AmazonEmber_Lt.ttf");
+}
+@font-face {
+  font-family: AmazonEmberBold;
+  src: url("../../fonts/AmazonEmber_Bd.ttf");
+}
+
+.header {
+  &__primary {
+    @include SectionHeadline;
+    width: 67%;
+    font-size: 4.8rem;
+
+    @media only screen and (max-width: 1024px) {
+      width: 95%;
+    }
+  
+    
+  }
+  &__secondary {
+    @include SectionHeadline;
+  }
+}
+
+a {
+  text-decoration: none;
+
+  &:hover{
+    text-decoration: underline;
+  }
+}
+
+.pg {
+  @include CopyText;
+  margin-bottom: 2.1rem;
+
+  // &:last-of-type{
+  //   margin-bottom: 0;
+  // }
+}
+
+.txt {
+  &-softBlue {
+    color: var(--soft-blue);
+  }
+  &-white {
+    color: white;
+  }
+  &-ice {
+    color: var(--ice);
+  }
+  &-black{
+    color: #000;
+  }
+  &-secondary {
+    color: var(--secondary);
+  }
+  &-2ndblue{
+    color: $carolina-blue;
+  }
+}
+
+b,
+.bold{
+  font-family: AmazonEmberBold;
+  font-weight: bold;
+}
+

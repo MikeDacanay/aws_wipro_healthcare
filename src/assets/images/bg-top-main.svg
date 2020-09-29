@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" height="800" viewBox="0 0 2000 800">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x2="1" y1=".5" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#202b38"/>
+            <stop offset="1" stop-color="#2c3a4d"/>
+        </linearGradient>
+        <linearGradient id="prefix__linear-gradient-2" x2="1" y1=".5" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#283647"/>
+            <stop offset=".29" stop-color="#263343"/>
+            <stop offset="1" stop-color="#232f3e"/>
+        </linearGradient>
+        <linearGradient id="prefix__linear-gradient-10" x1="0" x2="1" y1=".5" y2=".5" xlink:href="#prefix__linear-gradient-2"/>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_1781" fill="none" d="M0 0H2000V800H0z" data-name="Rectangle 1781" transform="translate(85.27 56.76)"/>
+        </clipPath>
+        <style>
+            .prefix__cls-5{fill:#232f3e}.prefix__cls-6{fill:url(#prefix__linear-gradient-2)}.prefix__cls-7{fill:#2c3a4b}.prefix__cls-8{fill:url(#prefix__linear-gradient-10)}
+        </style>
+    </defs>
+    <g id="prefix__bg-top-main" transform="translate(-85.27 -56.76)" style="isolation:isolate">
+        <g id="prefix___01" data-name="1">
+            <g id="prefix__Group_1605" clip-path="url(#prefix__clip-path)" data-name="Group 1605">
+                <path id="prefix__Rectangle_1780" fill="url(#prefix__linear-gradient)" d="M0 0H2002.77V2167.84H0z" data-name="Rectangle 1780" transform="translate(82.5 47.92)"/>
+                <path id="prefix__Path_1978" d="M494.99 857.52l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 1978"/>
+                <path id="prefix__Path_1979" d="M577.49 809.89v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 1979"/>
+                <path id="prefix__Path_1980" d="M494.99 762.26l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 1980"/>
+                <path id="prefix__Path_1981" d="M659.99 857.52l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 1981"/>
+                <path id="prefix__Path_1982" d="M742.48 809.89v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 1982"/>
+                <path id="prefix__Path_1983" d="M659.99 762.26l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 1983"/>
+                <path id="prefix__Path_1984" d="M742.49 1000.37l82.49 47.64v-95.26l-82.49-47.64z" class="prefix__cls-5" data-name="Path 1984"/>
+                <path id="prefix__Path_1985" d="M824.98 952.75v95.26l82.5-47.64v-95.26z" class="prefix__cls-6" data-name="Path 1985"/>
+                <path id="prefix__Path_1986" d="M742.49 905.11l82.49 47.64 82.5-47.64-82.5-47.62z" class="prefix__cls-7" data-name="Path 1986"/>
+                <path id="prefix__Path_1987" d="M577.49 1000.37l82.49 47.64v-95.26l-82.49-47.64z" class="prefix__cls-5" data-name="Path 1987"/>
+                <path id="prefix__Path_1988" d="M659.98 952.75v95.26l82.5-47.64v-95.26z" class="prefix__cls-6" data-name="Path 1988"/>
+                <path id="prefix__Path_1989" d="M577.49 905.11l82.49 47.64 82.5-47.64-82.5-47.62z" class="prefix__cls-7" data-name="Path 1989"/>
+                <path id="prefix__Path_1990" d="M330 857.52l82.49 47.63v-95.26L330 762.26z" class="prefix__cls-5" data-name="Path 1990"/>
+                <path id="prefix__Path_1991" d="M412.49 809.89v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 1991"/>
+                <path id="prefix__Path_1992" d="M330 762.26l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 1992"/>
+                <path id="prefix__Path_1993" d="M247.5 1000.37l82.49 47.64v-95.26l-82.49-47.64z" class="prefix__cls-5" data-name="Path 1993"/>
+                <path id="prefix__Path_1994" d="M329.99 952.75v95.26l82.5-47.64v-95.26z" class="prefix__cls-6" data-name="Path 1994"/>
+                <path id="prefix__Path_1995" d="M247.5 905.11l82.49 47.64 82.5-47.64-82.5-47.62z" class="prefix__cls-7" data-name="Path 1995"/>
+                <path id="prefix__Path_1996" d="M165 571.82l82.49 47.63v-95.26L165 476.56z" class="prefix__cls-5" data-name="Path 1996"/>
+                <path id="prefix__Path_1997" d="M247.49 524.19v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 1997"/>
+                <path id="prefix__Path_1998" d="M165 476.56l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 1998"/>
+                <path id="prefix__Path_1999" d="M82.5 714.67l82.49 47.63v-95.26L82.5 619.41z" class="prefix__cls-5" data-name="Path 1999"/>
+                <path id="prefix__Path_2000" d="M164.99 667.04v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2000"/>
+                <path id="prefix__Path_2001" d="M82.5 619.41l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2001"/>
+                <path id="prefix__Path_2002" d="M0 571.82l82.5 47.63v-95.26L0 476.56z" class="prefix__cls-5" data-name="Path 2002"/>
+                <path id="prefix__Path_2003" d="M82.5 524.19v95.26l82.5-47.63v-95.26z" class="prefix__cls-8" data-name="Path 2003"/>
+                <path id="prefix__Path_2004" d="M0 476.56l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2004"/>
+                <path id="prefix__Path_2005" d="M82.5 1000.37l82.5 47.64v-95.26l-82.5-47.64z" class="prefix__cls-5" data-name="Path 2005"/>
+                <path id="prefix__Path_2006" d="M165 952.75v95.26l82.5-47.64v-95.26z" class="prefix__cls-8" data-name="Path 2006"/>
+                <path id="prefix__Path_2007" d="M82.5 905.11l82.5 47.64 82.5-47.64-82.5-47.62z" class="prefix__cls-7" data-name="Path 2007"/>
+                <path id="prefix__Path_2008" d="M412.49 428.93l82.5 47.63V381.3l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2008"/>
+                <path id="prefix__Path_2009" d="M494.99 381.3v95.26l82.5-47.63v-95.26z" class="prefix__cls-8" data-name="Path 2009"/>
+                <path id="prefix__Path_2010" d="M412.49 333.67l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2010"/>
+                <path id="prefix__Path_2011" d="M494.99 571.82l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2011"/>
+                <path id="prefix__Path_2012" d="M577.48 524.19v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2012"/>
+                <path id="prefix__Path_2013" d="M494.99 476.56l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2013"/>
+                <path id="prefix__Path_2014" d="M659.98 571.82l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2014"/>
+                <path id="prefix__Path_2015" d="M742.48 524.19v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2015"/>
+                <path id="prefix__Path_2016" d="M659.98 476.56l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2016"/>
+                <path id="prefix__Path_2017" d="M577.48 714.67l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2017"/>
+                <path id="prefix__Path_2018" d="M659.98 667.04v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2018"/>
+                <path id="prefix__Path_2019" d="M577.48 619.41l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2019"/>
+                <path id="prefix__Path_2020" d="M247.5 428.93l82.49 47.63V381.3l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2020"/>
+                <path id="prefix__Path_2021" d="M329.99 381.3v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2021"/>
+                <path id="prefix__Path_2022" d="M247.5 333.67l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2022"/>
+                <path id="prefix__Path_2023" d="M82.5 143.18l82.5 47.64V95.56L82.5 47.92z" class="prefix__cls-5" data-name="Path 2023"/>
+                <path id="prefix__Path_2024" d="M165 95.56v95.26l82.5-47.64V47.92z" class="prefix__cls-8" data-name="Path 2024"/>
+                <path id="prefix__Path_2025" d="M82.5 47.92L165 95.56l82.5-47.64L165 .3z" class="prefix__cls-7" data-name="Path 2025"/>
+                <path id="prefix__Path_2026" d="M164.99 286.04l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2026"/>
+                <path id="prefix__Path_2027" d="M247.49 238.41v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2027"/>
+                <path id="prefix__Path_2028" d="M164.99 190.78l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2028"/>
+                <path id="prefix__Path_2029" d="M1072.47 1000.16l82.49 47.64v-95.26l-82.49-47.64z" class="prefix__cls-5" data-name="Path 2029"/>
+                <path id="prefix__Path_2030" d="M1154.96 952.54v95.26l82.5-47.64V904.9z" class="prefix__cls-6" data-name="Path 2030"/>
+                <path id="prefix__Path_2031" d="M1072.47 904.9l82.49 47.64 82.5-47.64-82.5-47.62z" class="prefix__cls-7" data-name="Path 2031"/>
+                <path id="prefix__Path_2032" d="M824.98 285.75l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2032"/>
+                <path id="prefix__Path_2033" d="M907.47 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2033"/>
+                <path id="prefix__Path_2034" d="M824.98 190.49l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2034"/>
+                <path id="prefix__Path_2035" d="M989.98 285.75l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2035"/>
+                <path id="prefix__Path_2036" d="M1072.47 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2036"/>
+                <path id="prefix__Path_2037" d="M989.98 190.49l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2037"/>
+                <path id="prefix__Path_2038" d="M494.99 285.75l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2038"/>
+                <path id="prefix__Path_2039" d="M577.48 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2039"/>
+                <path id="prefix__Path_2040" d="M494.99 190.49l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2040"/>
+                <path id="prefix__Path_2041" d="M907.48 714.42l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2041"/>
+                <path id="prefix__Path_2042" d="M989.97 666.79v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2042"/>
+                <path id="prefix__Path_2043" d="M907.48 619.16l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2043"/>
+                <path id="prefix__Path_2044" d="M1072.47 714.42l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2044"/>
+                <path id="prefix__Path_2045" d="M1154.96 666.79v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2045"/>
+                <path id="prefix__Path_2046" d="M1072.47 619.16l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2046"/>
+                <path id="prefix__Path_2047" d="M989.97 857.27l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2047"/>
+                <path id="prefix__Path_2048" d="M1072.46 809.64v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2048"/>
+                <path id="prefix__Path_2049" d="M989.97 762.01l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2049"/>
+                <path id="prefix__Path_2050" d="M577.49 142.9l82.49 47.63V95.27l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2050"/>
+                <path id="prefix__Path_2051" d="M659.98 95.27v95.26l82.5-47.63V47.64z" class="prefix__cls-6" data-name="Path 2051"/>
+                <path id="prefix__Path_2052" d="M577.49 47.64l82.49 47.63 82.5-47.63L659.98.01z" class="prefix__cls-7" data-name="Path 2052"/>
+                <path id="prefix__Path_2053" d="M742.48 142.9l82.5 47.63V95.27l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2053"/>
+                <path id="prefix__Path_2054" d="M824.98 95.27v95.26l82.5-47.63V47.64z" class="prefix__cls-8" data-name="Path 2054"/>
+                <path id="prefix__Path_2055" d="M742.48 47.64l82.5 47.63 82.5-47.63L824.98.01z" class="prefix__cls-7" data-name="Path 2055"/>
+                <path id="prefix__Path_2056" d="M659.98 285.75l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2056"/>
+                <path id="prefix__Path_2057" d="M742.48 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-8" data-name="Path 2057"/>
+                <path id="prefix__Path_2058" d="M659.98 190.49l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2058"/>
+                <path id="prefix__Path_2059" d="M989.98 571.53l82.49 47.63V523.9l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2059"/>
+                <path id="prefix__Path_2060" d="M1072.47 523.9v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2060"/>
+                <path id="prefix__Path_2061" d="M989.98 476.27l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2061"/>
+                <path id="prefix__Path_2062" d="M1154.97 285.75l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2062"/>
+                <path id="prefix__Path_2063" d="M1237.46 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2063"/>
+                <path id="prefix__Path_2064" d="M1154.97 190.49l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2064"/>
+                <path id="prefix__Path_2065" d="M1072.47 428.64l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2065"/>
+                <path id="prefix__Path_2066" d="M1154.97 381.01v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2066"/>
+                <path id="prefix__Path_2067" d="M1072.47 333.38l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2067"/>
+                <path id="prefix__Path_2068" d="M1403.07 999.8l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2068"/>
+                <path id="prefix__Path_2069" d="M1485.57 952.17v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2069"/>
+                <path id="prefix__Path_2070" d="M1403.07 904.54l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2070"/>
+                <path id="prefix__Path_2071" d="M1237.46 714.45l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2071"/>
+                <path id="prefix__Path_2072" d="M1319.96 666.82v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2072"/>
+                <path id="prefix__Path_2073" d="M1237.46 619.19l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2073"/>
+                <path id="prefix__Path_2074" d="M1319.96 571.56l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2074"/>
+                <path id="prefix__Path_2075" d="M1402.46 523.93v95.26l82.5-47.63V476.3z" class="prefix__cls-6" data-name="Path 2075"/>
+                <path id="prefix__Path_2076" d="M1319.96 476.3l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2076"/>
+                <path id="prefix__Path_2077" d="M1402.46 428.64l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2077"/>
+                <path id="prefix__Path_2078" d="M1484.95 381.01v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2078"/>
+                <path id="prefix__Path_2079" d="M1402.46 333.38l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2079"/>
+                <path id="prefix__Path_2080" d="M1237.77 142.89l82.5 47.63V95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2080"/>
+                <path id="prefix__Path_2081" d="M1320.27 95.26v95.26l82.5-47.63V47.63z" class="prefix__cls-6" data-name="Path 2081"/>
+                <path id="prefix__Path_2082" d="M1237.77 47.63l82.5 47.63 82.5-47.63L1320.27 0z" class="prefix__cls-7" data-name="Path 2082"/>
+                <path id="prefix__Path_2083" d="M1402.46 142.89l82.49 47.63V95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2083"/>
+                <path id="prefix__Path_2084" d="M1484.95 95.26v95.26l82.5-47.63V47.63z" class="prefix__cls-6" data-name="Path 2084"/>
+                <path id="prefix__Path_2085" d="M1402.46 47.63l82.49 47.63 82.5-47.63L1484.95 0z" class="prefix__cls-7" data-name="Path 2085"/>
+                <path id="prefix__Path_2086" d="M1320.58 856.88l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2086"/>
+                <path id="prefix__Path_2087" d="M1403.07 809.25v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2087"/>
+                <path id="prefix__Path_2088" d="M1320.58 761.62l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2088"/>
+                <path id="prefix__Path_2089" d="M2062.47 1000.16l82.49 47.64v-95.26l-82.49-47.64z" class="prefix__cls-5" data-name="Path 2089"/>
+                <path id="prefix__Path_2090" d="M2144.96 952.54v95.26l82.5-47.64V904.9z" class="prefix__cls-6" data-name="Path 2090"/>
+                <path id="prefix__Path_2091" d="M2062.47 904.9l82.49 47.64 82.5-47.64-82.5-47.62z" class="prefix__cls-7" data-name="Path 2091"/>
+                <path id="prefix__Path_2092" d="M1814.98 285.75l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2092"/>
+                <path id="prefix__Path_2093" d="M1897.47 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2093"/>
+                <path id="prefix__Path_2094" d="M1814.98 190.49l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2094"/>
+                <path id="prefix__Path_2095" d="M1979.98 285.75l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2095"/>
+                <path id="prefix__Path_2096" d="M2062.47 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2096"/>
+                <path id="prefix__Path_2097" d="M1979.98 190.49l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2097"/>
+                <path id="prefix__Path_2098" d="M1484.99 285.75l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2098"/>
+                <path id="prefix__Path_2099" d="M1567.48 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2099"/>
+                <path id="prefix__Path_2100" d="M1484.99 190.49l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2100"/>
+                <path id="prefix__Path_2101" d="M1897.47 714.42l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2101"/>
+                <path id="prefix__Path_2102" d="M1979.97 666.79v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2102"/>
+                <path id="prefix__Path_2103" d="M1897.47 619.16l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2103"/>
+                <path id="prefix__Path_2104" d="M2062.47 714.42l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2104"/>
+                <path id="prefix__Path_2105" d="M2144.97 666.79v95.26l82.5-47.63v-95.26z" class="prefix__cls-8" data-name="Path 2105"/>
+                <path id="prefix__Path_2106" d="M2062.47 619.16l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2106"/>
+                <path id="prefix__Path_2107" d="M1979.97 857.27l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2107"/>
+                <path id="prefix__Path_2108" d="M2062.47 809.64v95.26l82.5-47.63v-95.26z" class="prefix__cls-8" data-name="Path 2108"/>
+                <path id="prefix__Path_2109" d="M1979.97 762.01l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2109"/>
+                <path id="prefix__Path_2110" d="M1567.48 142.9l82.5 47.63V95.27l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2110"/>
+                <path id="prefix__Path_2111" d="M1649.98 95.27v95.26l82.5-47.63V47.64z" class="prefix__cls-6" data-name="Path 2111"/>
+                <path id="prefix__Path_2112" d="M1567.48 47.64l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2112"/>
+                <path id="prefix__Path_2113" d="M1732.48 142.9l82.49 47.63V95.27l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2113"/>
+                <path id="prefix__Path_2114" d="M1814.97 95.27v95.26l82.5-47.63V47.64z" class="prefix__cls-6" data-name="Path 2114"/>
+                <path id="prefix__Path_2115" d="M1732.48 47.64l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2115"/>
+                <path id="prefix__Path_2116" d="M1649.98 285.75l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2116"/>
+                <path id="prefix__Path_2117" d="M1732.47 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2117"/>
+                <path id="prefix__Path_2118" d="M1649.98 190.49l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2118"/>
+                <path id="prefix__Path_2119" d="M1979.97 571.53l82.5 47.63V523.9l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2119"/>
+                <path id="prefix__Path_2120" d="M2062.47 523.9v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2120"/>
+                <path id="prefix__Path_2121" d="M1979.97 476.27l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2121"/>
+                <path id="prefix__Path_2122" d="M2144.97 285.75l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2122"/>
+                <path id="prefix__Path_2123" d="M2227.46 238.12v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2123"/>
+                <path id="prefix__Path_2124" d="M2144.97 190.49l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2124"/>
+                <path id="prefix__Path_2125" d="M2062.47 428.64l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2125"/>
+                <path id="prefix__Path_2126" d="M2144.97 381.01v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2126"/>
+                <path id="prefix__Path_2127" d="M2062.47 333.38l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2127"/>
+                <path id="prefix__Path_2128" d="M2393.07 999.8l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2128"/>
+                <path id="prefix__Path_2129" d="M2475.57 952.17v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2129"/>
+                <path id="prefix__Path_2130" d="M2393.07 904.54l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2130"/>
+                <path id="prefix__Path_2131" d="M2227.47 714.45l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2131"/>
+                <path id="prefix__Path_2132" d="M2309.96 666.82v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2132"/>
+                <path id="prefix__Path_2133" d="M2227.47 619.19l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2133"/>
+                <path id="prefix__Path_2134" d="M2309.96 571.56l82.5 47.63v-95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2134"/>
+                <path id="prefix__Path_2135" d="M2392.46 523.93v95.26l82.5-47.63V476.3z" class="prefix__cls-6" data-name="Path 2135"/>
+                <path id="prefix__Path_2136" d="M2309.96 476.3l82.5 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2136"/>
+                <path id="prefix__Path_2137" d="M2392.46 428.64l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2137"/>
+                <path id="prefix__Path_2138" d="M2474.95 381.01v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2138"/>
+                <path id="prefix__Path_2139" d="M2392.46 333.38l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2139"/>
+                <path id="prefix__Path_2140" d="M2227.77 142.89l82.5 47.63V95.26l-82.5-47.63z" class="prefix__cls-5" data-name="Path 2140"/>
+                <path id="prefix__Path_2141" d="M2310.27 95.26v95.26l82.5-47.63V47.63z" class="prefix__cls-6" data-name="Path 2141"/>
+                <path id="prefix__Path_2142" d="M2227.77 47.63l82.5 47.63 82.5-47.63L2310.27 0z" class="prefix__cls-7" data-name="Path 2142"/>
+                <path id="prefix__Path_2143" d="M2392.46 142.89l82.49 47.63V95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2143"/>
+                <path id="prefix__Path_2144" d="M2474.95 95.26v95.26l82.5-47.63V47.63z" class="prefix__cls-6" data-name="Path 2144"/>
+                <path id="prefix__Path_2145" d="M2392.46 47.63l82.49 47.63 82.5-47.63L2474.95 0z" class="prefix__cls-7" data-name="Path 2145"/>
+                <path id="prefix__Path_2146" d="M2310.58 856.88l82.49 47.63v-95.26l-82.49-47.63z" class="prefix__cls-5" data-name="Path 2146"/>
+                <path id="prefix__Path_2147" d="M2393.07 809.25v95.26l82.5-47.63v-95.26z" class="prefix__cls-6" data-name="Path 2147"/>
+                <path id="prefix__Path_2148" d="M2310.58 761.62l82.49 47.63 82.5-47.63-82.5-47.63z" class="prefix__cls-7" data-name="Path 2148"/>
+            </g>
+        </g>
+    </g>
+</svg>

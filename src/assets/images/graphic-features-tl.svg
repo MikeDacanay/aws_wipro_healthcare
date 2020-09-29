@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__graphic-features-tl" width="456" height="217.5" viewBox="0 0 456 217.5">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_1377" fill="none" d="M0 0H456V217.5H0z" data-name="Rectangle 1377"/>
+        </clipPath>
+        <style>
+            .prefix__cls-3,.prefix__cls-4,.prefix__cls-5,.prefix__cls-6,.prefix__cls-7,.prefix__cls-8{fill:none}.prefix__cls-3,.prefix__cls-7,.prefix__cls-8{stroke:#a166ff}.prefix__cls-3{stroke-linecap:round}.prefix__cls-3,.prefix__cls-4,.prefix__cls-5,.prefix__cls-6,.prefix__cls-7{stroke-linejoin:round}.prefix__cls-3,.prefix__cls-4,.prefix__cls-5,.prefix__cls-6,.prefix__cls-7,.prefix__cls-8{stroke-width:2px}.prefix__cls-4,.prefix__cls-5{stroke:#869196}.prefix__cls-5{stroke-linecap:square}.prefix__cls-6{stroke:#879196}.prefix__cls-8{stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="prefix__features-tl" transform="translate(228 108.75)">
+        <g id="prefix__features-tl-2" clip-path="url(#prefix__clip-path)" data-name="features-tl" transform="translate(-228 -108.75)">
+            <circle id="prefix__Ellipse_8" cx="7.2" cy="7.2" r="7.2" class="prefix__cls-3" data-name="Ellipse 8" transform="translate(20.1 110)"/>
+            <path id="prefix__Path_1277" d="M54 136.6a7.2 7.2 0 1 1-7.2-7.2 7.2 7.2 0 0 1 7.2 7.2z" class="prefix__cls-3" data-name="Path 1277"/>
+            <path id="prefix__Path_1278" d="M15.5 136.6a7.2 7.2 0 1 1-7.2-7.2 7.2 7.2 0 0 1 7.2 7.2z" class="prefix__cls-3" data-name="Path 1278"/>
+            <path id="prefix__Line_530" d="M0 0L0 39.1" class="prefix__cls-4" data-name="Line 530" transform="translate(27.8 124.1)"/>
+            <path id="prefix__Path_1279" d="M20.6 163.2v-26.8h-5.8" class="prefix__cls-4" data-name="Path 1279"/>
+            <path id="prefix__Path_1280" d="M40.1 136.4h-5.8v26.8" class="prefix__cls-4" data-name="Path 1280"/>
+            <path id="prefix__Path_1281" d="M8.3 128.8a20.7 20.7 0 0 1 11.4-11.4" class="prefix__cls-5" data-name="Path 1281"/>
+            <path id="prefix__Path_1282" d="M46.5 144.3a20.6 20.6 0 0 1-38.2 0" class="prefix__cls-5" data-name="Path 1282"/>
+            <path id="prefix__Path_1283" d="M35.2 117.5a20.7 20.7 0 0 1 11.4 11.4" class="prefix__cls-5" data-name="Path 1283"/>
+            <circle id="prefix__Ellipse_9" cx="7.2" cy="7.2" r="7.2" class="prefix__cls-3" data-name="Ellipse 9" transform="translate(310.1 1)"/>
+            <path id="prefix__Path_1284" d="M344 27.6a7.2 7.2 0 1 1-7.2-7.2 7.2 7.2 0 0 1 7.2 7.2z" class="prefix__cls-3" data-name="Path 1284"/>
+            <path id="prefix__Path_1285" d="M305.5 27.6a7.2 7.2 0 1 1-7.2-7.2 7.2 7.2 0 0 1 7.2 7.2z" class="prefix__cls-3" data-name="Path 1285"/>
+            <path id="prefix__Line_531" d="M0 0L0 39.1" class="prefix__cls-4" data-name="Line 531" transform="translate(317.8 15.1)"/>
+            <path id="prefix__Path_1286" d="M310.6 54.2V27.4h-5.8" class="prefix__cls-4" data-name="Path 1286"/>
+            <path id="prefix__Path_1287" d="M330.1 27.4h-5.8v26.8" class="prefix__cls-4" data-name="Path 1287"/>
+            <path id="prefix__Path_1288" d="M298.3 19.8a20.7 20.7 0 0 1 11.4-11.3" class="prefix__cls-5" data-name="Path 1288"/>
+            <path id="prefix__Path_1289" d="M336.5 35.3a20.6 20.6 0 0 1-38.2 0" class="prefix__cls-5" data-name="Path 1289"/>
+            <path id="prefix__Path_1290" d="M325.2 8.5a20.7 20.7 0 0 1 11.4 11.4" class="prefix__cls-5" data-name="Path 1290"/>
+            <circle id="prefix__Ellipse_10" cx="7.2" cy="7.2" r="7.2" class="prefix__cls-3" data-name="Ellipse 10" transform="rotate(-5.7 1094.973 -4108.76)"/>
+            <path id="prefix__Path_1291" d="M448 114.6a7.2 7.2 0 1 1-7.2-7.2 7.2 7.2 0 0 1 7.2 7.2z" class="prefix__cls-3" data-name="Path 1291"/>
+            <path id="prefix__Path_1292" d="M409.5 114.6a7.2 7.2 0 1 1-7.2-7.2 7.2 7.2 0 0 1 7.2 7.2z" class="prefix__cls-3" data-name="Path 1292"/>
+            <path id="prefix__Line_532" d="M0 0L0 39.1" class="prefix__cls-4" data-name="Line 532" transform="translate(421.8 102.1)"/>
+            <path id="prefix__Path_1293" d="M414.6 141.2v-26.8h-5.8" class="prefix__cls-4" data-name="Path 1293"/>
+            <path id="prefix__Path_1294" d="M434.1 114.4h-5.8v26.8" class="prefix__cls-4" data-name="Path 1294"/>
+            <path id="prefix__Path_1295" d="M402.3 106.8a20.7 20.7 0 0 1 11.4-11.4" class="prefix__cls-5" data-name="Path 1295"/>
+            <path id="prefix__Path_1296" d="M440.5 122.3a20.6 20.6 0 0 1-38.2 0" class="prefix__cls-5" data-name="Path 1296"/>
+            <path id="prefix__Path_1297" d="M429.2 95.5a20.7 20.7 0 0 1 11.4 11.4" class="prefix__cls-5" data-name="Path 1297"/>
+            <path id="prefix__Path_1298" d="M210.3 125v-9.2a4.9 4.9 0 0 0-4.9-4.9h-12.6a4.9 4.9 0 0 0-4.9 4.9v9.2" class="prefix__cls-6" data-name="Path 1298"/>
+            <path id="prefix__Path_1299" d="M182.7 125v-9.2a10.1 10.1 0 0 1 10.1-10.1h12.5a10.1 10.1 0 0 1 10.1 10.1v9.2" class="prefix__cls-6" data-name="Path 1299"/>
+            <path id="prefix__Path_1300" d="M201.3 143.4V137a2.3 2.3 0 0 0-2.2-2.3 2 2 0 0 0-2.2 2.2v6.4a6 6 0 1 0 4.5 0z" class="prefix__cls-7" data-name="Path 1300"/>
+            <path id="prefix__Path_1301" d="M210.3 125v-9.2a4.9 4.9 0 0 0-4.9-4.9h-12.6a4.9 4.9 0 0 0-4.9 4.9v9.2" class="prefix__cls-7" data-name="Path 1301"/>
+            <path id="prefix__Path_1302" d="M182.7 125v-9.2a10.1 10.1 0 0 1 10.1-10.1h12.5a10.1 10.1 0 0 1 10.1 10.1v9.2" class="prefix__cls-7" data-name="Path 1302"/>
+            <rect id="prefix__Rectangle_1373" width="44.7" height="35.74" class="prefix__cls-6" data-name="Rectangle 1373" rx="1.5" transform="translate(177 128)"/>
+            <path id="prefix__Rectangle_1374" d="M0 0H14V14H0z" class="prefix__cls-8" data-name="Rectangle 1374" transform="translate(153.3 194.5)"/>
+            <path id="prefix__Rectangle_1375" d="M0 0H14V14H0z" class="prefix__cls-8" data-name="Rectangle 1375" transform="translate(192.3 194.5)"/>
+            <path id="prefix__Rectangle_1376" d="M0 0H14V14H0z" class="prefix__cls-8" data-name="Rectangle 1376" transform="translate(231.3 194.5)"/>
+            <path id="prefix__Path_1303" fill="none" stroke="#869196" stroke-miterlimit="10" stroke-width="2px" d="M223.3 188.5v10h-9v-10a2 2 0 0 0-2-2h-26a2 2 0 0 0-2 2v10h-9v-10a2 2 0 0 0-2-2h-26a2 2 0 0 0-2 2v26a2 2 0 0 0 2 2h26a2 2 0 0 0 2-2v-10h9v10a2 2 0 0 0 2 2h26a2 2 0 0 0 2-2v-10h9v10a2 2 0 0 0 2 2h26a2 2 0 0 0 2-2v-26a2 2 0 0 0-2-2h-26a2 2 0 0 0-2 2z" data-name="Path 1303"/>
+            <path id="prefix__Path_1304" d="M189.2 34a85.2 85.2 0 0 0-31 22.3" class="prefix__cls-6" data-name="Path 1304"/>
+            <path id="prefix__Path_1305" d="M299.5 77.4A85.1 85.1 0 0 0 197 31.2" class="prefix__cls-6" data-name="Path 1305"/>
+            <path id="prefix__Path_1306" d="M153.2 62.6a84.7 84.7 0 0 0-11.1 20.9A63.8 63.8 0 0 0 65 136.2" class="prefix__cls-6" data-name="Path 1306"/>
+            <path id="prefix__Path_1307" d="M290.2 84.2a56.3 56.3 0 0 1 91.9 30.4" class="prefix__cls-6" data-name="Path 1307"/>
+            <path id="prefix__Line_533" d="M0 0L73 0" class="prefix__cls-6" data-name="Line 533" transform="translate(14 208.5)"/>
+            <path id="prefix__Line_534" d="M0 0L29 0" class="prefix__cls-6" data-name="Line 534" transform="translate(102 208.5)"/>
+            <path id="prefix__Line_535" d="M0 0L110 0" class="prefix__cls-6" data-name="Line 535" transform="translate(272 208.5)"/>
+            <path id="prefix__Line_536" d="M0 0L11 0" class="prefix__cls-6" data-name="Line 536" transform="translate(393 208.5)"/>
+            <path id="prefix__Line_537" d="M0 0L39 0" class="prefix__cls-6" data-name="Line 537" transform="translate(417 208.5)"/>
+        </g>
+    </g>
+</svg>
