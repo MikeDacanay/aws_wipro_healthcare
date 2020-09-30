@@ -47,6 +47,28 @@
     width: 46.8rem;
     height: 22.3rem;
     margin: 0 auto;
+
+    &--1{
+      width: 44.2rem;
+      height: 26.08rem;
+      margin-top: -3rem;
+    }
+    &--2{
+      width: 46.25rem;
+      height: 20.84rem;
+      margin-top: -2rem;
+    }
+    &--3{
+      width: 47.43rem;
+      height: 18rem;
+      margin-top: -3.8rem;
+    }
+    &--4{
+      width: 45.86rem;
+      height: 25.33rem;
+      margin-top: -2.7rem;
+    }
+
     @media only screen and (max-width: 825px) {
       width: 100%;
       height: auto;
